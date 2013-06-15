@@ -38,6 +38,7 @@ while($objResult = mysql_fetch_array($objQuery))
 </table>
 <?
 mysql_close($objConnect);
+echo "Hello World!!!!"
 ?>
 </body>
 </html>
