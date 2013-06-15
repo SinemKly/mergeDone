@@ -39,6 +39,8 @@
 	  <?
 	  }
 	  mysql_close($objConnect);
+
+echo "Branch new changing 2"
 ?>
 </form>
 </body>
