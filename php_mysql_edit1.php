@@ -39,6 +39,8 @@ while($objResult = mysql_fetch_array($objQuery))
 <?
 mysql_close($objConnect);
 echo "Hello World!!!!"
+echo "some feature";
+echo "feature c";
 ?>
 </body>
 </html>
